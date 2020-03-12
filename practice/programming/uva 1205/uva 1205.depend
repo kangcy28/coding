@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559651976 source:c:\users\asus\desktop\programming\uva 1205\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<queue>
+

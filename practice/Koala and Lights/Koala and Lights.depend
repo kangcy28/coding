@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568623929 source:c:\users\asus\desktop\practice\koala and lights\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

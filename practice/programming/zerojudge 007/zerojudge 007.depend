@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551686357 source:c:\users\asus\desktop\zerojudge 007\main.cpp
+	<iostream>
+	<bitset>
+

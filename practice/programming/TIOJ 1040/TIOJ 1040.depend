@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551690787 source:c:\users\asus\desktop\tioj 1040\main.cpp
+	<iostream>
+	<vector>
+

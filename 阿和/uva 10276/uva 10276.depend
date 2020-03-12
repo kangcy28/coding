@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555122756 source:c:\users\asus\desktop\uva 10276\main.cpp
+	<iostream>
+	<cstring>
+	<math.h>
+

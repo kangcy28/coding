@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561277861 source:c:\users\asus\desktop\practice\uva 1395\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

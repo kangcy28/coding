@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551598215 source:c:\users\asus\desktop\merge sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
